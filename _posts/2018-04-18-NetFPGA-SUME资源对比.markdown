@@ -26,9 +26,9 @@ NetFPGA-SUME开发板FPGA芯片型号xc7vx690tffg1761-3。
 ### Memory
 主要包括DRAM和SRAM：
 * Two 4GB DDR3 SODIMMs (MT8KTF51264Hz- 1G9E1)
-  * 64 bit wide buses clocked at 850 MHz (1700 mbps)
+  * 64 bit wide buses clocked at 850 MHz (1700 MT/s)
 * Three 72Mbit QDRII+ SRAMs (CY7C25652KV18-500BZXC)
-  * 36 bit wide buses clocked at 500 MHz (1000 mbps)
+  * 36 bit wide buses clocked at 500 MHz (1000 MT/s)
 
 ----
 
